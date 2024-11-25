@@ -5,17 +5,10 @@
   "scripts": {
 	  "start": "react-scripts start",
 	"build": "react-scripts build",
-	"test": "react-scripts test",
+	
 	"eject": "react-scripts eject",
     "test": "echo \"Error: no test specified\" && exit 1"
-<<<<<<< HEAD
-	
-=======
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
->>>>>>> 4215b402d4be7f4343b0ddd51dcb5f01cef44cb8
+
   },
   "keywords": [],
   "author": "",
